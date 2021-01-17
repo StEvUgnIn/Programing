@@ -1,0 +1,24 @@
+[submodule "API"]
+	path = API
+	url = https://github.com/StEvUgnIn/API.git
+[submodule "ASD"]
+	path = ASD
+	url = https://github.com/StEvUgnIn/ASD.git
+[submodule "Batch"]
+	path = Batch
+	url = https://github.com/StEvUgnIn/Batch.git
+[submodule "C"]
+	path = C
+	url = https://github.com/StEvUgnIn/C.git
+[submodule "Embedded"]
+	path = Embedded
+	url = https://github.com/StEvUgnIn/Embedded.git
+[submodule "Java"]
+	path = Java
+	url = https://github.com/StEvUgnIn/Java.git
+[submodule "Python"]
+	path = Python
+	url = https://github.com/StEvUgnIn/Python.git
+[submodule "VHDL"]
+	path = VHDL
+	url = https://github.com/StEvUgnIn/VHDL.git
